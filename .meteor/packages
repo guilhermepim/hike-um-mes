@@ -23,3 +23,7 @@ kadira:flow-router
 kadira:blaze-layout
 twbs:bootstrap
 meteortoys:allthings
+useraccounts:bootstrap
+accounts-password
+useraccounts:flow-routing
+softwarerero:accounts-t9n
