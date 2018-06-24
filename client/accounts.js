@@ -31,7 +31,7 @@ AccountsTemplates.addFields([
   },
   pwd,
   {
-      _id: "Nome",
+      _id: "name",
       type: "text",
       displayName: "Nome Completo",
       required: true,
