@@ -1,3 +1,5 @@
+Meteor.subscribe("posts");
+
 Template.Perfil.helpers({
 	perfil: function() {
 		let idDoUsuario = FlowRouter.getParam("id");
